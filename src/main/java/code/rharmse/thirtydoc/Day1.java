@@ -2,7 +2,7 @@ package code.rharmse.thirtydoc;
 
 import java.util.Scanner;
 
-public class Day2 {
+public class Day1 {
 	
     public static void main(String[] args) {
         int i = 4;
